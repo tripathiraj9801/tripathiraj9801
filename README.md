@@ -27,6 +27,7 @@
 <a href="https://github.com/tripathiraj9801">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=dark&hide_langs_below=1" />
 </a>
+<br>
 <a href="https://github.com/tripathiraj9801">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiraj9801&show_icons=true&theme=dark&line_height=27" alt="Rajeev's github stats"/>
 </a>
