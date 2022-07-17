@@ -21,7 +21,7 @@
 
 - 📫 Reach me directly on **tripathirajeev9801@gmail.com**
 
-- ⚡ Fun fact **I think I am very good singer, but it surely it's not true.**
+- ⚡ Fun fact **I think I am a very good mobile gamer.**
 
 <br>
 <a href="https://github.com/tripathiraj9801">
