@@ -17,8 +17,6 @@
 
 - 🤝 I’m looking for help with [Data Structures and Algortihms](https://www.geeksforgeeks.org/data-structures/)
 
-- 👨‍💻 All of my projects are available at [https://tripathiraj9801.netlify.app/](https://tripathiraj9801.netlify.app/)
-
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **tripathirajeev9801@gmail.com**
