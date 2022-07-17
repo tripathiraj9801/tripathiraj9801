@@ -38,11 +38,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiraj9801&show_icons=true&theme=dark&line_height=27" alt="Rajeev's github stats"/>
 </a>
 
-
-<a href="https://github.com/TheDudeThatCode/tripathiraj9801">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tripathiraj9801&repo=tripathiraj9801&theme=dark" />
-</a>
-
 <br>
 <!--
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
