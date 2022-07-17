@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathiraj9801&show_icons=true&locale=en&layout=compact" alt="tripathiraj9801" /></p>
 
-
+<br>
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
