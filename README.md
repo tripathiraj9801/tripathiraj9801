@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
-<h3 align="center">A Full Stack developer from India with adroitness in Backend Development.</h3>
+<h3 align="center">A Full Stack developer from India with adroitness in Frontend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripathiraj9801&label=Profile%20views&color=0e75b6&style=flat" alt="tripathiraj9801" /> </p>
 
@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiraj9801&show_icons=true&locale=en" alt="tripathiraj9801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiraj9801&" alt="tripathiraj9801" /></p>
-
