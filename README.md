@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python, JavaScript**
 
-- 📫 How to reach me **tripathirajeev9801@gmail.com**
+- 📫 Reach me directly on **tripathirajeev9801@gmail.com**
 
 - ⚡ Fun fact **I think I am very good singer, but it surely it's not true.**
 
