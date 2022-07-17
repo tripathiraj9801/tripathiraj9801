@@ -19,16 +19,6 @@
 
 - ⚡ Fun fact **I think I am very good singer, but it surely it's not true.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tripathiraj9801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tripathiraj9801" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tripathiraj9801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tripathiraj9801" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tripathiraj98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tripathiraj98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/code_striker98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="code_striker98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tripathiraj9801/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tripathiraj9801/" height="30" width="40" /></a>
-</p>
-
-
 
 <a href="https://github.com/tripathiraj9801">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=dark&hide_langs_below=1" />
@@ -53,6 +43,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathiraj9801&show_icons=true&locale=en&layout=compact" alt="tripathiraj9801" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiraj9801&show_icons=true&locale=en" alt="tripathiraj9801" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiraj9801&" alt="tripathiraj9801" /></p>
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
+<br>
+
