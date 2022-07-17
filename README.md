@@ -1,6 +1,8 @@
+![](https://github.com/tripathiraj9801/banner.png)
+
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
 <h3 align="center">A Full Stack developer from India with adroitness in Frontend Development.</h3>
-![](https://github.com/tripathiraj9801/tripathiraj9801/blob/main/Banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripathiraj9801&label=Profile%20views&color=0e75b6&style=flat" alt="tripathiraj9801" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tripathiraj9801" target="blank"><img src="https://img.shields.io/twitter/follow/tripathiraj9801?logo=twitter&style=for-the-badge" alt="tripathiraj9801" /></a> </p>
