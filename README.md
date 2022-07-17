@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I think I am very good singer, but it surely it's not true.**
 
-
+<br>
 <a href="https://github.com/tripathiraj9801">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=dark&hide_langs_below=1" />
 </a>
