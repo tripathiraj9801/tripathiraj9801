@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
-<h3 align="center">A Full Stack developer from India with adroitness in Frontend Development.</h3>
+# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripathiraj9801&label=Profile%20views&color=0e75b6&style=flat" alt="tripathiraj9801" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tripathiraj9801" target="blank"><img src="https://img.shields.io/twitter/follow/tripathiraj9801?logo=twitter&style=for-the-badge" alt="tripathiraj9801" /></a> </p>
+<!-- 
+    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
+-->
+
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/tripathiraj9801/Data-Structures-practice)
 
