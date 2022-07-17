@@ -1,4 +1,4 @@
-![](https://github.com/tripathiraj9801/banner.png)
+![](https://github.com/tripathiraj9801/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
 <h3 align="center">A Full Stack developer from India with adroitness in Frontend Development.</h3>
