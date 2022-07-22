@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Data Structures and Algortihms](https://www.geeksforgeeks.org/data-structures/)
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 Reach me directly on **tripathirajeev9801@gmail.com**
 
