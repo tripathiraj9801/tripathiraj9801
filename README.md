@@ -27,12 +27,12 @@
 <br>
     
     # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namyakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tripathiraj9801&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tripathiraj9801&theme=radical&hide_border=false)<br/>
 
 
 <a href="https://github.com/tripathiraj9801">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=radical&hide_langs_below=1" />
 </a>
 <br>
    
