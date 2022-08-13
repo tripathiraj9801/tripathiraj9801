@@ -25,20 +25,17 @@
 - ⚡ Fun fact **I am a very good mobile gamer.**
 
 <br>
+    
+    # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=namyakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=radical&hide_border=false)<br/>
+
+
 <a href="https://github.com/tripathiraj9801">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiraj9801&theme=dark&hide_langs_below=1" />
 </a>
 <br>
-    <br>
-<a href="https://github.com/tripathiraj9801">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathiraj9801&show_icons=true&theme=dark&line_height=27" alt="Rajeev's github stats"/>
-</a>
-<br>
-    <br>
-    
-<a href="https://github.com/tripathiraj9801">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiraj9801&show_icons=true&theme=dark&line_height=29" alt="Rajeev Tripathi" /></p>
-
+   
 <!--
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=tripathiraj9801_icons=true&hide_border=true)
 -->
