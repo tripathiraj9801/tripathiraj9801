@@ -12,13 +12,13 @@
 
 <p>
 
-- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/tripathiraj9801/Data-Structures-practice)
+- 🔭 I’m currently working on [Go lang](https://github.com/tripathiraj9801/Data-Structures-practice)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Go 'beego"**
 
 - 🤝 I’m looking for help with [Data Structures and Algortihms](https://www.geeksforgeeks.org/data-structures/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 Reach me directly on **tripathirajeev9801@gmail.com**
 
