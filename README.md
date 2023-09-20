@@ -12,9 +12,9 @@
 
 <p>
 
-- 🔭 I’m currently working on [Go lang](https://github.com/tripathiraj9801/Data-Structures-practice)
+- 🔭 I’m currently working on [Java](https://www.nokia.com/)
 
-- 🌱 I’m currently learning **Go 'beego"**
+- 🌱 I’m currently learning **Backend Development in Java 'Spring"**
 
 - 🤝 I’m looking for help with [Data Structures and Algortihms](https://www.geeksforgeeks.org/data-structures/)
 
