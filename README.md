@@ -32,11 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-
+###
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/tripathiraj9801/count.svg?"  />
 </div>
+</br>
 
+###
 <p align='center'>
   <a href="https://twitter.com/tripathiraj9801" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -51,6 +54,7 @@
   </a>
 </p>
 
+###
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
