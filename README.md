@@ -37,19 +37,19 @@
   <img src="https://profile-counter.glitch.me/tripathiraj9801/count.svg?"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<p align='center'>
+  <a href="https://twitter.com/tripathiraj9801" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tripathiraj9801" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>&nbsp;
+  
+  <a href="https://medium.com/@tripathirajeev9801" target="_blank">
+    <img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Blog">
+  </a>
+</p>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
