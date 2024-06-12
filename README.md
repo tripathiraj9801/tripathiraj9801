@@ -1,4 +1,4 @@
-<p align="left">Hello World!! I am Rajeev a Software Engineer with expertise in C/C++, JavaScript/TypeScript, ReactJS, NodeJS, ExpressJS, Socket.IO, MongoDB, and Redis. Skilled in AWS services like EKS, EC2, and deploying applications using Docker and Kubernetes</p>
+<p align="left">Hello World!! I am Rajeev Tripathi a full-stack developer with expertise in TypeScript, React, Node.js, AWS, Docker, and Kubernetes. Adept at building scalable and high-performing applications, leveraging cutting-edge technologies like microservices, serverless architectures, and decentralized systems. Proven track record in optimizing performance, reducing latency, and implementing efficient caching strategies. Passionate about contributing to open-source projects and staying updated with the latest industry trends. </p>
 
 ###
 
