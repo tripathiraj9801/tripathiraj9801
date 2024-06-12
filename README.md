@@ -1,4 +1,4 @@
-<p align="left">Hello World!! I am Rajeev a Software Engineer learning to create efficient and scalable systems. Proficient in TypeScript, Python, and SQL with experience working with MQ, distributed systems, and microservice architecture and constantly seeking new challenges and opportunities to improve my skills and deliver top-quality solutions, but also can centre a div.</p>
+<p align="left">Hello World!! I am Rajeev a Software Engineer with expertise in C/C++, JavaScript/TypeScript, ReactJS, NodeJS, ExpressJS, Socket.IO, MongoDB, and Redis. Skilled in AWS services like EKS, EC2, and deploying applications using Docker and Kubernetes</p>
 
 ###
 
