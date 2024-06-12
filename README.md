@@ -1,4 +1,4 @@
-<p align="left">Hello World!! I am Rajeev Tripathi a full-stack developer with expertise in TypeScript, React, Node.js, AWS(EC2, S3, EKSS), Docker, and K8S. Adept at building scalable and high-performing applications using TS, Python on microservices, serverless, and decentralized architecture. </p>
+<p align="left">Hello World!! I am Rajeev Tripathi a full-stack developer with expertise in TypeScript, React, Node.js, AWS(EC2, S3, EKSS), Docker, and K8S. Adept at building scalable and high-performing applications using TS on microservices, serverless, and decentralized architecture. </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
